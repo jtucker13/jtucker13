@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtucker13
 - 👀 I’m interested in mobile development, cloud applications, and Dev Ops
-- 🌱 I’m currently learning Kotli
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on cloud applications
 
 <!---
